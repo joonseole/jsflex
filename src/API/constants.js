@@ -1,1 +1,1 @@
-export const baseUrl = "jspg.link";
+export const baseUrl = "https://jspg.link";
